@@ -1,4 +1,7 @@
 # TaskFlow AI
+## Live Demo
+- Frontend: https://task-flow-ai-two-phi.vercel.app
+- Backend API: https://task-flow-ai-jl3b.vercel.app/api/health
 
 A responsive landing page plus a working task manager. React + Tailwind on the frontend, Node.js + Express + Supabase on the backend, JWT authentication.
 
